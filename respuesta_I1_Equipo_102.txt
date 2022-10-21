@@ -2,3 +2,4 @@ a-Si, el ALFA puede ver los datos que cargaron los demas integrantes.
 b-Si, los integrantes pueden ver los archivos que sube ALFA.
 c-Si, los integrantes pueden ver los archivos que sube Beta.
 d-Nos comunicamos mediante discord.
+e-Atraves de Proyects agregando items y asignar a cada uno a los items del proyecto.
