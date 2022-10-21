@@ -1,0 +1,2 @@
+a-Si, el ALFA puede ver los datos que cargaron los demas integrantes.
+b-Si, los integrantes pueden ver los archivos que sube ALFA.
